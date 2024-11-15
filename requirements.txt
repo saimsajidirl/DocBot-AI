@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor
+pydantic
+python-docx
+requests
+haystack
+boto3
+ollama-haystack

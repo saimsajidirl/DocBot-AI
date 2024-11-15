@@ -1,0 +1,39 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "position": "Software Engineer",
+            "salary": 75000
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "position": "Data Scientist",
+            "salary": 80000
+        },
+        {
+            "id": 3,
+            "name": "Emily Johnson",
+            "position": "Product Manager",
+            "salary": 90000
+        }
+    ],
+    "company": {
+        "name": "Tech Innovators",
+        "location": "San Francisco",
+        "established": 2015
+    },
+    "projects": [
+        {
+            "id": 101,
+            "name": "AI Research",
+            "budget": 500000
+        },
+        {
+            "id": 102,
+            "name": "Web App Development",
+            "budget": 300000
+        }
+    ]
+}
